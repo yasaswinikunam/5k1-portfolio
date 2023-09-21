@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  nav li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 30px;
+  }
+  
+  #introduction {
+    background-color: #f0f0f0;
+  }
+  
+  #projects {
+    background-color: #e0e0e0;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project img {
+    max-width: 100%;
+  }
+  
+  #social-media {
+    background-color: #d0d0d0;
+  }
+
+  
